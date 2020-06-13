@@ -6,7 +6,7 @@ class Shoe
     @brand = brand
   end
   
-  def cobbler_speaks
+  def cobbler
     puts "says the shoe has been repaired", "makes the shoe's condition new"
   end
   
